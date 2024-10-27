@@ -1,0 +1,6 @@
+C:\Users\Lenovo\Desktop\C#-Görsel- Nesne-Dosyaları\C#\c# Dersleri\Sayı Tahmin 1\Sayı Tahmin 1\bin\Debug\Sayı Tahmin 1.exe.config
+C:\Users\Lenovo\Desktop\C#-Görsel- Nesne-Dosyaları\C#\c# Dersleri\Sayı Tahmin 1\Sayı Tahmin 1\bin\Debug\Sayı Tahmin 1.exe
+C:\Users\Lenovo\Desktop\C#-Görsel- Nesne-Dosyaları\C#\c# Dersleri\Sayı Tahmin 1\Sayı Tahmin 1\bin\Debug\Sayı Tahmin 1.pdb
+C:\Users\Lenovo\Desktop\C#-Görsel- Nesne-Dosyaları\C#\c# Dersleri\Sayı Tahmin 1\Sayı Tahmin 1\obj\Debug\Sayı Tahmin 1.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\C#-Görsel- Nesne-Dosyaları\C#\c# Dersleri\Sayı Tahmin 1\Sayı Tahmin 1\obj\Debug\Sayı Tahmin 1.exe
+C:\Users\Lenovo\Desktop\C#-Görsel- Nesne-Dosyaları\C#\c# Dersleri\Sayı Tahmin 1\Sayı Tahmin 1\obj\Debug\Sayı Tahmin 1.pdb
